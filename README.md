@@ -1,6 +1,8 @@
 # Assignment for Programming for Data Analysis 2019
  
-<p align="justify">This repository contains my programming for data alaysis assignmnet 2019. it looks at the numpy.random package in python.  It will briefly introduces the overall purpose of the package and the explains the use of the simple rand data na dpermutaion functions.  it explains the use and purpose of five distribution functions the 1. ,2.,3., 3., 5., and finally it explaisn the use of  seeds in generating pseudorandom number.</p>
+<p align="justify">This repository contains my programming for data alaysis assignmnet 2019. It looks at the numpy.random package in python.  It will briefly introduces the overall purpose of the package and explain the use of the simple random data an permutaion functions.  It explains the use and purpose of five distribution functions the 1. ,2.,3., 3., 5., and finally it explaina the use of seeds in generating pseudorandom numbers.
+
+I commenced work on this assignment around the 10th of October 2019 and completed work on   November 2019.  </p>
 
 [See here for the Assignment Instructions 2019](https://github.com/LauraBrogan/programming-assignment-2019/blob/master/ProgDA_Assignment%20(2).pdf)
 
@@ -21,13 +23,24 @@ I Imported: Pandas, Matplotlib, Seaborn.
 
 
 
-## My Repositiory can be download from git hub 
-1. Go to Git Hub using the following link [Click Here:](http)
+## Downloading My Repositiory from git hub 
+1. Go to Git Hub using the following link [Click Here:](https://github.com/LauraBrogan/programming-assignment-2019)
 2. Click the download button
 
 ## Whats contained in the repository
+This repositor contains:
++ gitignore file
++ Distributions.png - Image of Distributions function
++ licence file
++ ProgDA_Assignment.pdf - Assignment Instructions
++ Programming Assignment 2019.ipynb - Jupyter notebook
++ Readme.md - This document
++ Simple Random Data Image.jpg - Is an image of the Simple random data function
+
 
 ## Running the Jupyter Notebook
+
+
 
 
 
