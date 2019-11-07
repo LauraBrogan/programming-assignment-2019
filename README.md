@@ -1,9 +1,8 @@
-# programming-assignment-2019
-Assignment for Programming for Data Analysis 2019
+# Assignment for Programming for Data Analysis 2019
  
 <p align="justify">This repository contains my programming for data alaysis assignmnet 2019. it looks at the numpy.random package in python.  It will briefly introduces the overall purpose of the package and the explains the use of the simple rand data na dpermutaion functions.  it explains the use and purpose of five distribution functions the 1. ,2.,3., 3., 5., and finally it explaisn the use of  seeds in generating pseudorandom number.</p>
 
-[See here for the Assignment Instructions 2019](https:)
+[See here for the Assignment Instructions 2019](https://github.com/LauraBrogan/programming-assignment-2019/blob/master/ProgDA_Assignment%20(2).pdf)
 
 
 
